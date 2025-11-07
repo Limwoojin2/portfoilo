@@ -3,8 +3,8 @@ const img = (path) => `/img/${path}`;
 const works = [
   {
     id: "w-001",
-    title: "Social Media Dashboard",
-    subtitle: "SNS 통합 대시보드 · 반응형 UI",
+    title: "PhotoMemo",
+    subtitle: "일상물 한줄 기록",
     description:
       "React + Vite 기반의 SNS 통계/알림을 한눈에 보는 대시보드. 카드/차트/필터 컴포넌트로 모듈화.",
     tags: ["REACT", "RESPONSIVE", "DASHBOARD", "CHART", "CLEANUI"],
