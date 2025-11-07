@@ -14,7 +14,7 @@ const Footer = () => {
           </p>
         </div>
         <div className="right">
-          <a href="#">
+          <a href={footer.links.href}>
             <FaGithub size={28} />
           </a>
           <a href="#">
