@@ -2,7 +2,7 @@
 
 const aboutMe = {
   basic: {
-    name: "홍길동",
+    name: "임우진",
     age: 29,
     location: "서울, 대한민국",
     mbti: "INTJ",
