@@ -14,10 +14,10 @@ const Footer = () => {
           </p>
         </div>
         <div className="right">
-          <a href={footer.links.href}>
+          <a href={footer.links[0].href}>
             <FaGithub size={28} />
           </a>
-          <a href="#">
+          <a href={footer.links[1].href}>
             <SiNotion size={28} />
           </a>
         </div>
