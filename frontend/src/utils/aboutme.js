@@ -3,9 +3,9 @@
 const aboutMe = {
   basic: {
     name: "임우진",
-    age: 29,
-    location: "서울, 대한민국",
-    mbti: "INTJ",
+    age: 24,
+    location: "경기도 남양주시, 대한민국",
+    mbti: "ENTP",
   },
   skills: [
     "JavaScript (ES6+)",
